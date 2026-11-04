@@ -1,0 +1,5 @@
+/home/coque/Documents/ITD/semestre5/graficos/unity/blockout/.utmp/RelWithDebInfo/1a5fy32c/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/coque/Documents/ITD/semestre5/graficos/unity/blockout/.utmp/RelWithDebInfo/1a5fy32c/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/coque/Documents/ITD/semestre5/graficos/unity/blockout/.utmp/RelWithDebInfo/1a5fy32c/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/home/coque/Documents/ITD/semestre5/graficos/unity/blockout/.utmp/RelWithDebInfo/1a5fy32c/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/home/coque/Documents/ITD/semestre5/graficos/unity/blockout/.utmp/RelWithDebInfo/1a5fy32c/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

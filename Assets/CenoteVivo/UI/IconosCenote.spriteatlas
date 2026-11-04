@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IconosCenote
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d931d7a7edf799359b463f0a5e44b748, type: 3}
+    - {fileID: 2800000, guid: c0e48061c94a7fe8799cc15bdbfee1be, type: 3}
+    - {fileID: 2800000, guid: cf4a23fb2c422dc8eb411dfdefb6ea3c, type: 3}
+    - {fileID: 2800000, guid: 3322199e7fff874f2a17b53ac2f0a131, type: 3}
+    - {fileID: 2800000, guid: 6c73af37909fe40438244e83c19444bf, type: 3}
+    - {fileID: 2800000, guid: 5b512a95939231e62a88ff478c32a2da, type: 3}
+    - {fileID: 2800000, guid: 5648c64e03321c312b101fb97e549376, type: 3}
+    - {fileID: 2800000, guid: 9caa6f7e4adc43df1abbfdee0edc4634, type: 3}
+    - {fileID: 2800000, guid: 7a786911cd1349a4c99858951844bec3, type: 3}
+    - {fileID: 2800000, guid: 40755e9953f8412728128a70ab2a1016, type: 3}
+    - {fileID: 2800000, guid: 9e48fe2d6a4d4540f9146b2410f2ece2, type: 3}
+    - {fileID: 2800000, guid: dfe28a08aab2bf2239c21b2d3a7a85d8, type: 3}
+    - {fileID: 2800000, guid: 33fa64c4a6b7b17beae079ce069cab4a, type: 3}
+    - {fileID: 2800000, guid: 3f5dcfddd052051b7bda4e5e2a987679, type: 3}
+    - {fileID: 2800000, guid: 0f58f0ca135a74c9b9a2e0c51a29f87f, type: 3}
+    - {fileID: 2800000, guid: 5a9af77265ee0b689a253cbaa27c2502, type: 3}
+    - {fileID: 2800000, guid: 4007abafb53f97bf786a89a49a3554cf, type: 3}
+    - {fileID: 2800000, guid: 0401d0ff922aa3631bf638cf39fe6d99, type: 3}
+    - {fileID: 2800000, guid: 26e8cbc2bdb80adc7a0867e7d574a073, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys: []
+  m_MasterAtlas: {fileID: 0}
+  m_RenderDataMap: {}
+  m_Tag: IconosCenote
+  m_IsVariant: 0
+  m_Guid: 00000000000000000000000000000000
